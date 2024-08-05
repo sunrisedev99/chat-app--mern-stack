@@ -34,7 +34,7 @@ Users are able to join groups and message other users in real-time.
 
 Before proceeding, please ensure you have the following software installed on your computer.
 
-* Node
+* Node v14.17.3
 * Yarn (optional but recommended)
 * Git command line tools
 
